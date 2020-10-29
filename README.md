@@ -9,7 +9,9 @@ imagery, but these can be replaced by Sentinel 2 level 2A data
 in order to avoid the atmospheric correction step and automate 
 the ingest of satellite data. 
 
-![workflow](assets/workflow_dengue.png)
+<p align="center">
+<img src="assets/workflow_dengue.png" width="78%">
+</p>
 
 All image processing was done with 
 [GRASS GIS 7.8+](https://grass.osgeo.org/download/). 
