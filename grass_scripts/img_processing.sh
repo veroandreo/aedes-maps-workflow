@@ -5,7 +5,7 @@
 # Towards a workflow for operational mapping of Aedes aegypti at urban 
 # scale based on remote sensing
 #
-# Andreo et al.
+# Script written by: Veronica Andreo
 #
 ########################################################################
 

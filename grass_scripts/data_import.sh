@@ -5,7 +5,7 @@
 # Towards a workflow for operational mapping of Aedes aegypti at urban 
 # scale based on remote sensing
 #
-# Andreo et al.
+# Script written by: Veronica Andreo
 #
 ########################################################################
 
@@ -82,7 +82,7 @@ v.in.ogr \
 
 
 #
-# Import urban area and estimate mean elevation (needed for atmospheric correction files)
+# Import urban area and estimate mean elevation (needed for atmospheric correction)
 #
 
 
