@@ -42,7 +42,7 @@ absence maps.
 probability and standard deviation; average probability per neighborhood and 
 presence-absence binary maps. 
 
-**TODO**:
+**TO DO**:
 
 - Replace SPOT by Sentinel 2 data. Use [GRASS GIS](https://grass.osgeo.org/) 
 modules [i.sentinel.*](https://grass.osgeo.org/grass78/manuals/addons/i.sentinel.html) 
