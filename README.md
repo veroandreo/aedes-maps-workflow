@@ -1,8 +1,11 @@
 ## Towards a workflow for operational mapping of *Aedes aegypti* at urban scale based on remote sensing
 
 This repo holds the scripts that we have developed towards an 
-operational workflow for mapping dengue vectors in urban areas 
-(manuscript submitted to *Remote Sensing Applications*). 
+operational workflow for mapping dengue vectors in urban areas.
+
+The manuscript was published on August 2021 in 
+*Remote Sensing Applications: Society and Environment*
+and can be found at: https://doi.org/10.1016/j.rsase.2021.100554
 
 The scripts were originally developed using SPOT as input
 imagery, but these can be replaced by Sentinel 2 level 2A data 
